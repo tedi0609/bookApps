@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBook</string>
+    <string name="books_name">Judul Buku</string>
+    <string name="detail">Detail</string>
+    <string name="author">Author</string>
+    <string name="baca">\"Daftar Buku, \n Pengembangan Diri.\"</string>
+    <string name="about_name">Tedi Irawan</string>
+    <string name="about_email">tedysahputra692@gmail.com</string>
+    <string name="about_page">About</string>
+</resources>
